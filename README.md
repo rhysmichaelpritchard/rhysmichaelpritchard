@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rhysmichaelpritchard
-- 👀 I’m interested in Machine Learning, Data Science, and Data Visualisation; particularly in NLP
-- 🌱 I’m currently learning more in depth how to handle image and video data
-- 💞️ I’m looking to collaborate on any projects you have that may be of interest to someone with my skillset
+- 👀 I’m interested in Machine Learning, Data Science, and Data Visualisation.
 - 📫 You can reach me at rhys.pritchard.97@gmail.com
 
 <!---
